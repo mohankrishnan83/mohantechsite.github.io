@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Mohan's site 
 
 You can use the [editor on GitHub](https://github.com/mohankrishnan83/mohantechsite.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
