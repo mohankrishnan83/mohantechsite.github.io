@@ -1,14 +1,24 @@
-## Welcome to Mohan's site 
+## About Mohan
 
-You can use the [About Me](https://github.com/mohankrishnan83/mohantechsite.github.io/blob/master/AboutMe.md) to maintain and preview the content for your website in Markdown files.
+A Senior Data Engineer,  with 15+ Years of Total IT project lifecycle experience including Project Planning , Resource management , technical Design, Development, Testing and Implementation. This includes Data Design , Design walkthrough, Development, Code walkthrough, Application Tuning ,Implementation and support.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Key Highlights 
+- Ability to work both Techinical and Management track.
+- Ablity plan and Drive projects from Plannning to implementation.
+- Capablity to lead and mentor the team. 
 
-### Markdown
+### Skill profile 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Oracle Databases 12c 
+2. Teradata MPP Database V11
+3. AWS 
+4. Agile 
+5. Waterfall 
 
-```markdown
+```markdown 
+  c= a+b
+
+
 Syntax highlighted code block
 
 # Header 1
