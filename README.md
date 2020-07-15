@@ -1,6 +1,6 @@
 ## Welcome to Mohan's site 
 
-You can use the [About Me](https://github.com/mohankrishnan83/mohantechsite.github.io/AboutMe.md) to maintain and preview the content for your website in Markdown files.
+You can use the [About Me](https://github.com/mohankrishnan83/mohantechsite.github.io/blob/master/AboutMe.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
