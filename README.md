@@ -16,24 +16,8 @@ A Senior Data Engineer,  with 15+ Years of Total IT project lifecycle experience
 5. Waterfall 
 
 ```markdown 
-  c= a+b
 
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Mohan Linked-In Profile ](https://www.linkedin.com/in/mohanakrishnan-rajamani/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
